@@ -1,0 +1,25 @@
+MONGO:
+  URI:
+    ENABLED: false
+    CONNECTION: ''
+    DATABASE: SoupPvP
+  HOST: localhost
+  PORT: 27017
+  DATABASE: SoupPvP
+  AUTHENTICATION:
+    ENABLED: false
+    USERNAME: ''
+    PASSWORD: ''
+    AUTHENTICATION-DATABASE: admin
+
+SPAWN:
+  LOCATION-A: world:30:91:30
+  LOCATION-B: world:-30:201:-30
+
+EVENTS:
+  SUMO:
+    SPECTATOR-SPAWN: world:-10000:89:-10025:0:0.5
+    SPAWN-A: world:-10000:89:-10025:0:0.5
+    SPAWN-B: world:-10000:89:-10025:0:0.5
+
+FREE-KITS: false

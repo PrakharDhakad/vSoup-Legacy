@@ -1,0 +1,5 @@
+name: SoupPvP
+version: gg6ks9w
+author: hieu
+main: kami.gg.souppvp.SoupPvP
+depend: [drink]
